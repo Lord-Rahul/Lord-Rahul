@@ -61,7 +61,7 @@ Hi there! I'm **Rahul**, an aspiring **Cybersecurity Professional**, beginning m
 
 - **GitHub**: [Lord-Rahul](https://github.com/Lord-Rahul)
 - **LinkedIn**: [Rahul’s LinkedIn](https://linkedin.com/in/your-profile)
-- **Email**: [Rahul 🥷🏼](rahul717321@gmail.com)
+- **Email**: rahul717321@gmail.com
 
 ---
 
