@@ -1,70 +1,73 @@
-# Welcome to My GitHub Profile!
-
-Hi there! I'm **Rahul**, an aspiring **Cybersecurity Professional**, beginning my journey into the exciting world of cybersecurity in 2025. This profile will document my growth, projects, and contributions as I learn and develop my skills in protecting the digital world.
-
----
-
-## 🚀 About Me
-
-- 💻 **Starting Date**: January 2025  
-- 🔒 **Field of Interest**: Cybersecurity, Ethical Hacking, Digital Forensics, and Threat Analysis.  
-- 📚 **Learning Path**:  
-  - Basics of Networking and Operating Systems.
-  - Security Fundamentals.
-  - Advanced topics like Penetration Testing, Malware Analysis, and Incident Response.
-- 🌐 **Fun Fact**: I love solving puzzles and exploring how things work—traits that I believe align well with cybersecurity!
+<h1 align="center">Hey there! 👋 I'm Rahul</h1>
+<h3 align="center">Aspiring Cybersecurity Professional | Ethical Hacker | Threat Analyst</h3>
 
 ---
 
-## 🌟 Goals for 2025 and Beyond
+### 👨‍💻 About Me
 
-1. Build a strong foundation in networking and cybersecurity fundamentals.
-2. Gain certifications such as:
-   - **CompTIA Security+**
-   - **Certified Ethical Hacker (CEH)**
-   - **Certified Information Systems Security Professional (CISSP)** (long-term goal).
-3. Contribute to open-source cybersecurity tools.
-4. Participate in Capture The Flag (CTF) competitions and bug bounty programs.
-5. Create and share projects that showcase my learning.
+- 🎓 I'm currently diving deep into **Cybersecurity, Ethical Hacking, and Digital Forensics**.
+- 🚀 Started my journey in **January 2025** and I'm loving the puzzle-solving world of infosec.
+- 🔍 Currently exploring **Penetration Testing**, **Malware Analysis**, and **Incident Response**.
+- 🧩 Fun fact: I’m addicted to solving CTFs and love reverse engineering random stuff.
 
 ---
 
-## 📂 Repositories to Watch
+### 🧠 I’m Currently Learning
 
-### 🔧 Learning Resources
-- **Cybersecurity-101**: A repository to document notes, useful resources, and hands-on labs.
-- **Networking-Basics**: Exercises and code snippets to understand networking fundamentals.
-
-### 🛠️ Tools and Scripts
-- **PenTesting-Scripts**: A collection of scripts and tools I’ll create for penetration testing.
-- **Automation-Scripts**: Simple automation projects for cybersecurity tasks.
-
-### 🔎 CTF Challenges
-- **CTF-Writeups**: Writeups of challenges I’ve solved in various CTF events.
-
-### 🌐 Web Development Projects
-- **MERN-Stack-Projects**: Showcasing my web development experience with projects built using MongoDB, Express.js, React.js, and Node.js.
-- **Dynamic-Web-Apps**: Interactive applications demonstrating my expertise in creating full-stack solutions.
+- 🔐 **Security Fundamentals**
+- 🖧 **Networking & Operating Systems**
+- 🐚 **Linux Command Line and Scripting**
+- 🛡️ **Threat Analysis & SOC Basics**
+- 💣 **Exploitation Techniques & Red Teaming**
 
 ---
 
-## 📈 Current Skills
+### 🛠️ Tools & Technologies
 
-- **Languages**: Python (beginner), Bash scripting, JavaScript.
-- **Operating Systems**: Linux (Ubuntu, Kali Linux), Windows.
-- **Concepts**: Basic understanding of networking, system administration.
-- **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js).
-
----
-
-## 🤝 Let's Connect
-
-- **GitHub**: [Lord-Rahul](https://github.com/Lord-Rahul)
-- **LinkedIn**: [Rahul’s LinkedIn](https://linkedin.com/in/your-profile)
-- **Email**: rahul717321@gmail.com
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0073A8?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3F4F77?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 Follow My Progress
-I’ll be regularly updating this profile with new projects, repositories, and milestones. Your feedback and collaboration are always welcome!
+### 📂 Pinned Projects
+
+Here are some cool things I’m working on or have built 👇
+
+- 🛡️ **Basic Pentesting Lab Setup** – Automated environment for safe exploit practice.
+- 📊 **Threat Intel Collector** – Script that scrapes and stores IOC feeds from public sources.
+- 🧰 **CTF Writeups** – Collection of solved CTF challenges (Web, Forensics, Crypto).
+- 🔍 **OSINT Tool** – Python-based tool for collecting open-source intelligence on targets.
+
+> *More to come as I build my skills and contribute to the cybersecurity community!*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lord-rahul&show_icons=true&theme=radical" alt="Rahul's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-rahul&theme=radical" alt="Rahul's GitHub streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 🐦 Twitter: [@yourhandle](#)
+- 💼 LinkedIn: [Your LinkedIn](#)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+### 💬 Motto
+
+> "The quieter you become, the more you can hear. — Ram Dass"
+
+---
 
