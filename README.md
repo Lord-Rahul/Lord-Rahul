@@ -62,7 +62,7 @@
 ### 🏅 Cisco Certification
 
 <p align="center">
-  <img src="https://www.credly.com/badges/2756437b-46ef-49e2-a666-b5f79c1b6218/public_url" width="120" alt="Cisco Introduction to Cybersecurity Badge"/>
+  <img src="(https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)" width="120" alt="Cisco Introduction to Cybersecurity Badge"/>
 </p>
 
 <p align="center">
