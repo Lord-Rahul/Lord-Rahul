@@ -62,13 +62,13 @@
 ### 🏅 Cisco Certification
 
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/0e7e9a4f-7f97-4f3f-9a7b-3cd8f9cd7d2d/CyberEssentials_Badge.png" width="120" alt="Cisco Introduction to Cybersecurity Badge"/>
+  <img src="https://www.credly.com/badges/2756437b-46ef-49e2-a666-b5f79c1b6218/public_url" width="120" alt="Cisco Introduction to Cybersecurity Badge"/>
 </p>
 
 <p align="center">
   <strong>Introduction to Cybersecurity - Cisco Networking Academy</strong><br/>
   🗓️ Issued: 2025<br/>
-  🔗 <a href="https://www.credly.com/">Credly Profile</a>
+  🔗 <a href="https://www.credly.com/users/rahul.c1c7c8d1)">Credly Profile</a>
 </p>
 
 ---
