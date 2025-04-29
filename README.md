@@ -68,7 +68,7 @@
 <p align="center">
   <strong>Introduction to Cybersecurity - Cisco Networking Academy</strong><br/>
   🗓️ Issued: 2025<br/>
-  🔗 <a href="https://www.credly.com/users/rahul.c1c7c8d1)">Credly Profile</a>
+  🔗 <a href="https://www.credly.com/users/rahul.c1c7c8d1">Credly Profile</a>
 </p>
 
 ---
