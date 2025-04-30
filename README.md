@@ -59,16 +59,21 @@
 
 ---
 
-### 🏅 Cisco Certification
+### 🏅 Certifications
 
 <p align="center">
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" width="120" alt="Cisco Introduction to Cybersecurity Badge"/>
+  <a href="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70b61ec3-b2a7-45b9-a4a5-90c42d3704f9/image.png" width="120" alt="Networking Basics Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e7e9a4f-7f97-4f3f-9a7b-3cd8f9cd7d2d/CyberEssentials_Badge.png" width="120" alt="Introduction to Cybersecurity Badge"/>
+  </a>
 </p>
 
 <p align="center">
-  <strong>Introduction to Cybersecurity - Cisco Networking Academy</strong><br/>
-  🗓️ Issued: 2025<br/>
-  🔗 <a href="https://www.credly.com/users/rahul.c1c7c8d1">Credly Profile</a>
+  <strong>✅ Cisco Networking Basics</strong><br/>
+  <strong>✅ Cisco Introduction to Cybersecurity</strong>
 </p>
 
 ---
