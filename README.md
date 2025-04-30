@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/70b61ec3-b2a7-45b9-a4a5-90c42d3704f9/image.png" width="120" alt="Networking Basics Badge"/>
+    <img src="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" width="120" alt="Networking Basics Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/" target="_blank">
