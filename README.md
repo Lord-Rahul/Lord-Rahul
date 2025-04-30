@@ -63,11 +63,11 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" target="_blank">
-    <img src="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" width="120" alt="Networking Basics Badge"/>
+    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="120" alt="Networking Basics Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e7e9a4f-7f97-4f3f-9a7b-3cd8f9cd7d2d/CyberEssentials_Badge.png" width="120" alt="Introduction to Cybersecurity Badge"/>
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Introduction to Cybersecurity Badge"/>
   </a>
 </p>
 
