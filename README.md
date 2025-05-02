@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
 </p>
 
+<p align="center">
+  <a href="https://www.rahulverma.live" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -89,6 +95,7 @@
 
 ### 📬 Let's Connect
 
+- 🌐 [Portfolio Website](https://www.rahulverma.live)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-verma-532095280/)
 - 📧 Email: rahul717321@gmail.com
 
