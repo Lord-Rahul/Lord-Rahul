@@ -5,12 +5,6 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <a href="https://www.rahulverma.live" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -69,17 +63,22 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/fa497e2a-9067-49eb-aad9-e7a39a3ad1fc/public_url" target="_blank">
-    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="120" alt="Networking Basics Badge"/>
+    <img src="https://images.credly.com/size/340x340/images/70b61ec3-b2a7-45b9-a4a5-90c42d3704f9/image.png" width="110" alt="Cisco Networking Basics Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Introduction to Cybersecurity Badge"/>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ea844b4d-3704-4fd2-b0b3-b67982a508a5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e7e9a4f-7f97-4f3f-9a7b-3cd8f9cd7d2d/CyberEssentials_Badge.png" width="110" alt="Cisco Cybersecurity Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/58b62c55-71f7-4f55-88df-69d470ce113d/public_url" target="_blank">
+    <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="110" alt="Cisco Networking Devices Badge"/>
   </a>
 </p>
 
 <p align="center">
   <strong>✅ Cisco Networking Basics</strong><br/>
-  <strong>✅ Cisco Introduction to Cybersecurity</strong>
+  <strong>✅ Cisco Introduction to Cybersecurity</strong><br/>
+  <strong>✅ Cisco Networking Devices & Initial Configuration</strong>
 </p>
 
 ---
@@ -95,7 +94,6 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website](https://www.rahulverma.live)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-verma-532095280/)
 - 📧 Email: rahul717321@gmail.com
 
