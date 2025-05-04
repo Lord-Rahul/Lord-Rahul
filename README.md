@@ -66,11 +66,11 @@
     <img src="https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" alt="Cisco Networking Basics Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/ea844b4d-3704-4fd2-b0b3-b67982a508a5/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/2756437b-46ef-49e2-a666-b5f79c1b6218/public_url" target="_blank">
     <img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" alt="Cisco Cybersecurity Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/58b62c55-71f7-4f55-88df-69d470ce113d/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/c55d3798-6265-4263-93d3-df1b651f3c31/public_url" target="_blank">
     <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="110" alt="Cisco Networking Devices Badge"/>
   </a>
 </p>
