@@ -73,12 +73,16 @@
   <a href="https://www.credly.com/badges/c55d3798-6265-4263-93d3-df1b651f3c31/public_url" target="_blank">
     <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="110" alt="Cisco Networking Devices Badge"/>
   </a>
+  <a href="https://www.credly.com/badges/dabfea99-778e-4bee-bb0c-76329696ae5f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="110" alt="Cisco Networking Basics Badge"/>
+  </a>
 </p>
 
 <p align="center">
   <strong>✅ Cisco Networking Basics</strong><br/>
   <strong>✅ Cisco Introduction to Cybersecurity</strong><br/>
   <strong>✅ Cisco Networking Devices & Initial Configuration</strong>
+  <strong>✅ IBM Cybersecurity Fundamentals</strong>
 </p>
 
 ---
