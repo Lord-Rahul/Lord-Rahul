@@ -81,7 +81,7 @@
 <p align="center">
   <strong>✅ Cisco Networking Basics</strong><br/>
   <strong>✅ Cisco Introduction to Cybersecurity</strong><br/>
-  <strong>✅ Cisco Networking Devices & Initial Configuration</strong>
+  <strong>✅ Cisco Networking Devices & Initial Configuration</strong><br/>
   <strong>✅ IBM Cybersecurity Fundamentals</strong>
 </p>
 
