@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rahul Verma</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🧑‍💻 Ex-MERN Dev | 🕵️ Curious Learner | 🎯 Passionate About Digital Defense</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 🧑‍💻MERN Dev | 🕵️ Curious Learner | 🎯 Passionate About Digital Defense</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
