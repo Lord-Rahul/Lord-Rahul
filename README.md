@@ -105,7 +105,7 @@
 ### 📬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-verma-532095280/)
-- 🔗 [Rahul Verma](https://www.rahulverma.live/)
+- 🔗 [Rahul Verma](https://www.thatrahulverma.in/)
 - 📧 Email: rahul717321@gmail.com
 
 ---
