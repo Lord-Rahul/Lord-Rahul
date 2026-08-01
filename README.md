@@ -2,10 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2d1e,100:00ff66&height=200&section=header&text=RAHUL%20VERMA&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=50&lines=🔐+Cybersecurity+Enthusiast;🧑%E2%80%8D💻+MERN+Dev+%E2%9E%A1+InfoSec;🕵%EF%B8%8F+Penetration+Testing+%26+OSINT;🎯+Passionate+About+Digital+Defense" alt="Typing SVG" />
-  </a>
+  <h3 align="center">
+    🔐 <b>Cybersecurity Enthusiast</b> &nbsp;|&nbsp; 🧑‍💻 <b>MERN Dev ➔ InfoSec</b> &nbsp;|&nbsp; 🕵️ <b>Penetration Testing & OSINT</b>
+  </h3>
 
   <br/>
 
@@ -148,6 +147,25 @@
 
 ---
 
+### 🏆 Cybersecurity Achievements & Skill Dashboard
+
+<div align="center">
+  <!-- Trophies & Achievements Dashboard -->
+  <img src="assets/cyber_trophies_stats.jpg" width="100%" style="border-radius: 10px;" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lord-rahul&theme=tokyonight&hide_border=true" width="60%" />
+
+  <br/><br/>
+
+  <!-- Cyber Skills & Language Matrix -->
+  <img src="assets/cyber_skills_matrix.jpg" width="100%" style="border-radius: 10px;" />
+</div>
+
+---
+
 ### 🛡️ Cyber Defense Operations
 
 <div align="center">
@@ -158,36 +176,9 @@
 
 ---
 
-### 🏆 GitHub Trophies & Activity
-
-<div align="center">
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=lord-rahul&theme=darkhub&no-frame=true&no-background=true&margin-w=15" width="100%" />
-
-  <br/><br/>
-
-  <!-- Stats & Streak Side-by-Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lord-rahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lord-rahul&theme=tokyonight&hide_border=true" width="48%" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rahul&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <br/><br/>
-
-  <!-- Contribution Snake Animation -->
-  <img src="assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<br/>
-
 <!-- Footer Section -->
 <div align="center">
-  <img src="assets/kali_quote.gif" width="220" style="border-radius: 50%;" />
+  <img src="assets/kali_quote.gif" width="200" style="border-radius: 50%;" />
 
   <br/><br/>
 
