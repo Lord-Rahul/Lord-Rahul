@@ -17,13 +17,19 @@
     <img src="https://komarev.com/ghpvc/?username=lord-rahul&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
-  <!-- High Quality Cyber Banner GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-8ed3f5e9-2703-4a65-80e3-490f230559f2.gif" width="100%" />
+  <!-- Futuristic Cyber Header Banner Image -->
+  <img src="assets/cybersec_banner.jpg" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br/>
 
 ### 👨‍💻 System Log // About Me
+
+<div align="center">
+  <img src="assets/matrix_hacker.gif" width="100%" style="border-radius: 8px;" />
+</div>
+
+<br/>
 
 ```bash
 ┌──(rahul㉿cybersec)-[~]
@@ -33,7 +39,7 @@
 ```json
 {
   "name": "Rahul Verma",
-  "role": "Cybersecurity Enthusiast & Developer",
+  "role": "Cybersecurity Enthusiast & MERN Developer",
   "journey_start": "January 2025",
   "background": "Transitioned from MERN Stack Development ➔ Information Security",
   "mindset": "Legally breaking systems to master how to defend them 😉",
@@ -46,8 +52,6 @@
   "operating_system": "Kali Linux / Linux Hardened Environment"
 }
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a912b-825f-407a-9a99-b1d51a66a1a4.gif" width="100%" />
 
 ---
 
@@ -144,7 +148,17 @@
 
 ---
 
-### 🏆 GitHub Trophies & Analytics
+### 🛡️ Cyber Defense Operations
+
+<div align="center">
+  <img src="assets/cybersec_terminal.jpg" width="100%" style="border-radius: 10px;" />
+</div>
+
+<br/>
+
+---
+
+### 🏆 GitHub Trophies & Activity
 
 <div align="center">
   <!-- GitHub Profile Trophies -->
@@ -160,6 +174,11 @@
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-rahul&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <br/><br/>
+
+  <!-- Contribution Snake Animation -->
+  <img src="assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -168,7 +187,7 @@
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b6-e401-42e8-a166-fcfd7baa4c50.gif" width="100%" />
+  <img src="assets/kali_quote.gif" width="220" style="border-radius: 50%;" />
 
   <br/><br/>
 
