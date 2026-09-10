@@ -182,7 +182,7 @@
 
   <br/><br/>
 
-  <h4 align="center"><i>"The quieter you become, the more you can hear."</i> — Ram Dass / Kali Linux</h4>
+  <h4 align="center"><i>"The quieter you become, the more you can hear."</i> — Ram Dass </h4>
   
   <p align="center">
     <a href="https://github.com/lord-rahul"><img src="https://img.shields.io/badge/Designed%20With-💚-00ff66?style=flat-square" alt="Designed with love"/></a>
