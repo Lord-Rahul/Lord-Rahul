@@ -176,7 +176,7 @@
 
 ---
 
-<!-- Footer Section -->
+<!-- Footer Section ! -->
 <div align="center">
   <img src="assets/kali_quote.gif" width="200" style="border-radius: 50%;" />
 
